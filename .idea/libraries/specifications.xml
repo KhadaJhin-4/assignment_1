@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="specifications">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/specifications/list-src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/specifications/src.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
